@@ -46,11 +46,12 @@ A modern dark-themed online education website with responsive design and profess
 
 ## Project Structure
 edusky-online-learning-platform/
-├── index.html                # Main HTML file
-├── style.css                 # CSS styles
-├── script.js                 # JavaScript functionality
-├── README.md                 # Project documentation
-└── edusky-screenshot.jpeg    # Screenshot image
+
+- index.html                # Main HTML file
+- style.css                 # CSS styles
+- script.js                 # JavaScript functionality
+- README.md                 # Project documentation
+- edusky-screenshot.jpeg    # Screenshot image
 
 ## Live Demo
 View Live Demo (Add your live demo link here when available)
