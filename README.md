@@ -54,7 +54,7 @@ edusky-online-learning-platform/
 - edusky-screenshot.jpeg    # Screenshot image
 
 ## Live Demo
-View Live Demo (Add your live demo link here when available)
+View Live Demo [live demo link here](https://muzamal478.github.io/edusky-online-learning-platform/)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
