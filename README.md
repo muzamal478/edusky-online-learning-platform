@@ -39,3 +39,26 @@ A modern dark-themed online education website with responsive design and profess
 1. Clone this repository:
    ```bash
    git clone https://github.com/muzamal478/edusky-online-learning-platform.git
+
+2. Open index.html in your browser
+
+3. Explore the website and its features
+
+## Project Structure
+edusky-online-learning-platform/
+├── index.html                # Main HTML file
+├── style.css                 # CSS styles
+├── script.js                 # JavaScript functionality
+├── README.md                 # Project documentation
+└── edusky-screenshot.jpeg    # Screenshot image
+
+## Live Demo
+View Live Demo (Add your live demo link here when available)
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+## License
+This project is open source and available under the MIT License.
+
+👨‍💻 Developed by [Muzamal](https://github.com/muzamal478)
